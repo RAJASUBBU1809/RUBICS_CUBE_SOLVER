@@ -1,7 +1,3 @@
-//
-// Created by Lakshya Mittal on 18-02-2022.
-//
-
 #ifndef RUBIKS_CUBE_SOLVER_CORNERDBMAKER_H
 #define RUBIKS_CUBE_SOLVER_CORNERDBMAKER_H
 #include "CornerPatternDatabase.h"

@@ -1,7 +1,3 @@
-//
-// Created by Lakshya Mittal on 17-02-2022.
-//
-
 #ifndef RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 #define RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 

@@ -1,7 +1,3 @@
-//
-// Created by Lakshya Mittal on 18-02-2022.
-//
-
 #include "CornerDBMaker.h"
 
 using namespace std;

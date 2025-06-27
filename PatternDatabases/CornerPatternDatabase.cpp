@@ -1,7 +1,3 @@
-//
-// Created by Lakshya Mittal on 17-02-2022.
-//
-
 #include "CornerPatternDatabase.h"
 
 CornerPatternDatabase::CornerPatternDatabase() : PatternDatabase(100179840) {}
