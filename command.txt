@@ -1,0 +1,1 @@
+g++ -std=c++17 main.cpp Model/RubiksCube.cpp Model/RubiksCube1dArray.cpp Model/RubiksCube3dArray.cpp Model/RubiksCubeBitboard.cpp PatternDatabases/CornerDBMaker.cpp PatternDatabases/CornerPatternDatabase.cpp PatternDatabases/math.cpp PatternDatabases/NibbleArray.cpp PatternDatabases/PatternDatabase.cpp -o rubiks_solver.exe

@@ -1,0 +1,3 @@
+C:/Users/Acer/OneDrive - iitkgp.ac.in/Desktop/Projects/SDE/rubiks_cube_solver/build/CMakeFiles/rubiks_cube_solver.dir
+C:/Users/Acer/OneDrive - iitkgp.ac.in/Desktop/Projects/SDE/rubiks_cube_solver/build/CMakeFiles/edit_cache.dir
+C:/Users/Acer/OneDrive - iitkgp.ac.in/Desktop/Projects/SDE/rubiks_cube_solver/build/CMakeFiles/rebuild_cache.dir
